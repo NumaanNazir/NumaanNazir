@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/yashwantaditya009/yashwantaditya009/main/image/ezgif-5-2687cb1c0a.gif)<h1 align="center">Hey there! 👋, I'm Numaan Nazir</h1>
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)<h1 align="center">Hey there! 👋, I'm Numaan Nazir</h1>
 <h3 align="center">I am a passionate admirer of data science.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
-
+  
 - 💬 Ask me about **Machine Learning , Deep Learning , Data Science ,Gen AI, NLP, Neural networks etc.**
 
 - 📫 How to reach me **nq.nqanoon@gmail.com**
